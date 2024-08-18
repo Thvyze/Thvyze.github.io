@@ -1,0 +1,7 @@
+/*********************************************\
+**  Copyright © 2010-2024 Thejaka Maldeniya  **
+\*********************************************/
+* { box-sizing: border-box }
+body { background: #efe; padding: 2em; color: #575 }
+h1:first-child { margin-top: 0 }
+p { margin: 3em 5em }
